@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:6:5-14:19
+	android:label
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:7:13-38
+	android:name
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:6:19-54
+activity#org.apache.android.xmpp.XMPPClient
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:8:9-13:20
+	android:label
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:8:46-72
+	android:name
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:8:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+		ADDED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saqib/Downloads/XMPP/app/src/main/AndroidManifest.xml

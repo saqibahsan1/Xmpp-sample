@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/saqib/Downloads/XMPP/app/build/intermediates/res/merged/debug/layout_settings.xml.flat",
+        "source": "/home/saqib/Downloads/XMPP/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/saqib/Downloads/XMPP/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/saqib/Downloads/XMPP/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/saqib/Downloads/XMPP/app/build/intermediates/res/merged/debug/layout_multi_line_list_item.xml.flat",
+        "source": "/home/saqib/Downloads/XMPP/app/src/main/res/layout/multi_line_list_item.xml"
+    }
+]
